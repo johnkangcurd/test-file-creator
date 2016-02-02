@@ -15,9 +15,4 @@ This will start the server on port 8080.
 
 Enjoy, please!
 
-ngrok test
-scond commit
-and a third
-and a fourth
-and a fifth
-how about another?
+test 1
