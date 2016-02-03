@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-    //too messy
-    //fixed the break
+    //showcase for jason
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
