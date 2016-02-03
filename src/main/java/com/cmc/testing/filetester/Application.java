@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
     //too messy
-    breaking this code
+    //fixed the break
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
