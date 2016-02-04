@@ -14,6 +14,4 @@ Steps to deploy
 This will start the server on port 8080.
 
 Enjoy, please!
-
-to dev2
-dev 3         
+ dev 4         
