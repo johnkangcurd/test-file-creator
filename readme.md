@@ -15,5 +15,4 @@ This will start the server on port 8080.
 
 Enjoy, please!
 
-to qa 1
-to qa 2
+to qa 3
