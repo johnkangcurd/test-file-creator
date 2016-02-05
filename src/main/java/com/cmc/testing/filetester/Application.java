@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-    //fixing sync
+    //test sync
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
