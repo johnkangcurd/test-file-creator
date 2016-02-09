@@ -16,5 +16,4 @@ This will start the server on port 8080.
 Enjoy, please!
 commit 1
 
-master commit
-edit
+master man
