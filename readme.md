@@ -1,4 +1,4 @@
-thursday team two commit
+
 
 Flat File Creator
 =================
@@ -15,6 +15,6 @@ Steps to deploy
 
 This will start the server on port 8080.
 
-thursday team one commit
+team1 commit
 
 Enjoy, please!
