@@ -14,15 +14,5 @@ Steps to deploy
 This will start the server on port 8080.
 
 Enjoy, please!
-commit 1
 
-testing?
-master man
-changing
-testtesttest
-BUILD TEST MASTER
-
-team two commit
-
-team one commit
-team one change
+thursday master commit
